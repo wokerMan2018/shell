@@ -5,6 +5,9 @@
 ----------
 使用方法
 
+下载脚本:
+
+
     wget --no-check-certificate -O name.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/name.sh
 
 下载之后给脚本执行权限.
