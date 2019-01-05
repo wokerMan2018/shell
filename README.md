@@ -4,9 +4,16 @@
 
 ----------
 使用方法
-wget --no-check-certificate https://raw.githubusercontent.com/woyard/shell/name.sh
-chmod +x name.sh
-./name.sh
+
+    wget --no-check-certificate -O name.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/name.sh
+
+下载之后给脚本执行权限.
+
+    chmod +x name.sh
+
+最后执行脚本:
+
+    ./name.sh
 
 ----------
 
