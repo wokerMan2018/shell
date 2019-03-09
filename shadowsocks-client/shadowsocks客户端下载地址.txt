@@ -1,3 +1,4 @@
+======================================================
 比较老的版本,但是可以用:https://sourceforge.net/projects/shadowsocksgui/files/dist/
 ========================================================
 官方安卓手机端官方下载地址:https://github.com/shadowsocks/shadowsocks-android/releases
@@ -19,7 +20,23 @@ b、未越狱的IOS操作方法也很简单，先在电脑上安装“iTunes”�
 比如：Shadowrocket(2.99美元),FirstWingy(0.99美元),Wingy(0.99美元)等,其它相关APP请自行测试。
 
 方法三：国内市场有一个叫“shadowproxy”的软件客户端可用。而国外美国苹果ID有一个免费的红色ShadowRocket，功能完全一模一样。建议ios客户端使用正宗小飞机“Shadowsocks或Shadowrocket”，其它客户端会出现一些奇怪现象(不稳定或某些APP无法加载内容或某些APP无法登录等)！
+=====================================================
+github下载,速度比较慢:
 
+Windows
+https://github.com/shadowsocks/shadowsocks-windows/releases
+https://github.com/shadowsocks/shadowsocks-qt5/releases
+Mac OS X
+https://github.com/shadowsocks/ShadowsocksX-NG/releases
+Linux
+https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation
+https://github.com/shadowsocks/shadowsocks-qt5/releases
+ios
+https://itunes.apple.com/app/apple-store/id1070901416?pt=2305194&ct=shadowsocks.org&mt=8
+https://github.com/shadowsocks/shadowsocks-iOS/releases
+android
+https://play.google.com/store/apps/details?id=com.github.shadowsocks
+https://github.com/shadowsocks/shadowsocks-android/releases
 
 
 

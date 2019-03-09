@@ -63,4 +63,8 @@ VPS跑分测试
 https://raw.githubusercontent.com/woyard/shell/unixbench.sh
 #unixbench进行跑分测试，单核和多核不同跑分
 
-
+网络测试
+https://raw.githubusercontent.com/woyard/shell/mping.sh
+使用方法:
+wget --no-check-certificate https://raw.githubusercontent.com/woyard/shell/mping.sh
+[root@host ]# bash mping.sh
